@@ -1,0 +1,111 @@
+    1  pwd
+    2  ls
+    3  touch
+    4  touch demo.txt
+    5  ls
+    6  touch file
+    7  touch file(1...10)
+    8  touch file{1..10
+    9  touch file{1..10}
+   10  ls
+   11  cd..
+   12  cd ..
+   13  cd gist-577
+   14  echo hello
+   15  touch hello.txt
+   16  ls
+   17  echo "hello".txt
+   18  cat hello.txt
+   19  echo {1..100}
+   20  echo {1..25}>>hello.txt
+   21  cat hello.txt
+   22  rm.*txt
+   23  rm .*txt
+   24  rm .*hello.txt
+   25  touch myfiles{1..100}
+   26  ls
+   27  rm *txt
+   28  ls
+   29  cat fle2 file1
+   30  cat file2 file1
+   31  git init
+   32  git config user.name "bharathi"
+   33  git config user.email "gothambharathi2000@gmail.cm
+   34  git init
+   35  git config user.name "bharathi"
+   36  git config user.email "gothambharathi2000@gmail.com"
+   37  git remote add remote name https://github.com/gothambharathi/Gist_pythonworkshop04.git
+   38  git init
+   39  git config user.name "bharathi"
+   40  git config user.email "gothambharathi2000@gmail.com"
+   41  git remote add remote name 
+   42      -f, --fetch           fetch the remote branches
+   43      --tags                import all tags and associated objects when fetching
+   44                            or do not fetch any tag at all (--no-tags)
+   45      -t, --track <branch>  branch(es) to track
+   46      -m, --master <branch>
+   47                            master branch
+   48      --mirror[=(push|fetch)]
+   49                            set up remote as a mirror to push to or fetch from
+   50  dell@DESKTOP-HMSPP3A MINGW64 ~/Desktop/gist-577 (master)
+   51  $
+   52  pwd
+   53  ls
+   54  touch demo.txt
+   55  pwd
+   56  ls
+   57  mkdir GIST
+   58  ls
+   59  cd GIST
+   60  pwd
+   61  cd ..
+   62  cd e:
+   63  pwd
+   64  ls
+   65  cd d:
+   66  pwd
+   67  cd c:
+   68  cd C:\Users\dell\Desktop\Sushma-459
+   69  cd Users/dell/Desktop/Sushma-459
+   70  echo "hello"
+   71  echo "1..100"
+   72  echo "{1..100}"
+   73  echo {1..100}
+   74  touch file{1..100}.txt
+   75  touch pyton{20..50}.py
+   76  touch clanguage{50..70}.cpp
+   77  pwd
+   78  ls
+   79  rmdir GIST
+   80  rm demo.txt
+   81  ls
+   82  rm file{1..10}.txt
+   83  rm file{50..100}.txt
+   84  rm clanguage{50..100}.cpp
+   85  ls
+   86  rm *.txt
+   87  ls
+   88  rm *.py
+   89  ls
+   90  nano Anusha-463.txt
+   91  cat Anusha-463.txt
+   92  nano Anusha-463.txt
+   93  cat Anusha-463.txt
+   94  nano Anusha-463.txt
+   95  cat Anusha-463.txt
+   96  echo "hello">>Anusha-463.txt
+   97  cat Anusha.txt
+   98  cat Anusha-463.txt
+   99  echo {1..100}>>Anusha-463.txt
+  100  cat Anusha-463.txt
+  101  Anusha-463.txt
+  102  echo "hello">>Anusha-4632.txt
+  103  cat Anusha-4632.txt
+  104  echo {1..100}>>Anusha-4633.txt
+  105  cat ANUSHA-4633.TXT
+  106  mv Anusha-4633.txt Anusha-4632.txt
+  107  cp Anusha-4632.txt Anusha-463.txt
+  108  ls
+  109  nano Anusha-463.txt
+  110  history
+  111  history >>history.txt
